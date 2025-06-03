@@ -1,4 +1,4 @@
-我來展示如何用 Mermaid 和 PlantUML 實現 C4 Model 的各層架構圖：
+展示如何用 Mermaid 和 PlantUML 實現 C4 Model 的各層架構圖：
 
 ## 補充說明和最佳實務
 
